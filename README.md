@@ -28,7 +28,7 @@
 
 ### 方法二：下载 ZIP 手动安装
 
-1. 下载仓库中的 `role-lock.zip`。
+1. [下载 `role-lock.zip`](https://github.com/qcdwlyx-jpg/role-lock/raw/refs/heads/main/role-lock.zip)。
 2. 在豆包电脑版进入“技能 · 连接器 · 伙伴”。
 3. 点击“新建” → “上传技能”，选择 `role-lock.zip`。
 
